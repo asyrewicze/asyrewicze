@@ -69,6 +69,8 @@ I had this crazy idea that IT Pros may, possibly, be a group of people that are 
 - Thursday Live Learn - 12:30pm EST to 1:30pm EST
 - Friday Game Stream - 9:00pm EST to 11:00pm EST
 
+**NOTE**: For channel updates see [The InfoTech Gamer Twitter Account](https://www.twitter.com/infotechgamer) for the latest stream info!
+
 ---
 
 ### **Author of the Anxious Techy SubStack - Coming Soon!!**
