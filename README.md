@@ -1,4 +1,4 @@
-![Andy Syrewicze Profile Banner](ProfileBanner_MS_Sign.png)
+![Andy Syrewicze](AndyIgnitePhoto.png)
 
 # Hi, Everyone!
 
