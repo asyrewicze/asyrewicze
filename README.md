@@ -77,7 +77,9 @@ With that in mind, [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) 
 
 This is my newest project, and perhaps the one I'm most excited about! In 2021, I was diagnosed with Generalized Anxiety Disorder and (surprise!), turns out I had been suffering from it my entire life.
 
-While my tech learning slowed down in 2020 and 2021 as a result, I started getting help and learned how to push back against my anxiety disorder. Just like I do with Tech, I felt the need to try and share my story and personal learnings in the hopes of helping others that are dealing with anxiety or other mental health issues. The biggest thing is knowing that you're not alone. On top of that, the continued stigma against mental health in society sucks and needs to end. This is my way of shining light on that!
+While my tech learning slowed down in 2020 and 2021 as a result, I started getting help and learned how to cope with my anxiety disorder and not be avoidant. While I hated the fact that my tech learning slowed down somewhat this last year and a half, I had the BIG realization that learning to deal with any mental illness is a skill. If I wanted to manage SQL, I'd go learn about SQL. Mental Illness is no different in this regard!
+
+Just like I do with Tech, I felt the need to try and share my story and personal learnings in the hopes of helping others that are dealing with anxiety or other mental health issues. The biggest thing is knowing that you're not alone. On top of that, the continued stigma against mental health in society SUCKS and needs to end. This is my way of shining light on that!
 
 I hope you will subscribe and join the conversation regarding mental health in our community!
 
