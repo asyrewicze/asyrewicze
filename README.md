@@ -8,8 +8,6 @@ I use this space to organize and centralize links to all of the resources, commu
 
 Looking forward to hearing from you!
 
----
-
 ## Who is This Andy Guy?
 
 ### **Pronouns**
@@ -26,13 +24,9 @@ I'm a crazy poodle dad. You can bet money that if you see a video of me somewher
 
 ![Andy's Poodle](AndysPoodle.png)
 
----
-
 ## What am I Currently Working on?
 
 All of the below sources are platforms that I'm currently creating content for.
-
----
 
 ### **Content Creator and Editor @ the [Altaro Software DOJO](https://www.altaro.com/dojo)**
 
@@ -85,8 +79,6 @@ While my tech learning slowed down in 2020 and 2021 as a result, I started getti
 
 I hope you will subscribe and join the conversation regarding mental health in our community!
 
----
-
 ## Ask Me About Public Speaking!
 
 I enjoy speaking to crowds of all shapes and sizes both in-person and virtually. That includes small groups all the way up to keynote styled sessions with large crowds in the audience. I'm able to speak on the below topics:
@@ -104,8 +96,6 @@ I enjoy speaking to crowds of all shapes and sizes both in-person and virtually.
 
 **NOTE**: If you'd like me to come speak an any of the above topics, reach out to me via the "How to Get in Touch with Me" section below!
 
----
-
 ## What I'm Currently Learning
 
 - Azure Kubernetes Service
@@ -114,16 +104,12 @@ I enjoy speaking to crowds of all shapes and sizes both in-person and virtually.
 - Continuously Improving my Writing and Markdown Know-how
 - Anxiety Management and Mental Well Being
 
----
-
 ## How to Get in Touch with Me
 
 I'm generally available at most waking hours on both of the below platforms. For more detailed conversations, I'll happily provide different contact preferences if needed.
 
 - [Twitter DMs](https://www.twitter.com/asyrewicze)
 - [LinkedIn](https://www.linkedin.com/in/asyrewicze)
-
----
 
 <!--
 **asyrewicze/asyrewicze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
