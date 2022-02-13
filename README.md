@@ -40,7 +40,7 @@ The webinar shown below is just one example of my contributions in this area.
 
 ---
 
-### **Host of the SysAdmin Dojo Podcast**
+### **Host of the [SysAdmin Dojo Podcast](https://www.altaro.com/dojo/sysadminpodcast/)**
 
 One of my newer day-job projects, and one I'm SUPER excited about. We've talked about doing a podcast for our Dojo platform for a long time, and through a lot of work from a lot of different people, we were finally able to make it a reality! 
 
@@ -52,7 +52,7 @@ One of my newer day-job projects, and one I'm SUPER excited about. We've talked 
 
 ---
 
-### **Host of the InfoTechGamer Channel on Twitch**
+### **Andy is [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) on Twitch!**
 
 ![](TwitchChannelLogo.png)
 
