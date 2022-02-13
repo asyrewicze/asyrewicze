@@ -56,9 +56,9 @@ One of my newer day-job projects, and one I'm SUPER excited about. We've talked 
 
 ![](TwitchChannelLogo.png)
 
-I had this crazy idea that IT Pros may, possibly, be a group of people that are inclined to enjoy video games (like me!). The InfoTech Gamer Twitch channel is a community that is designed to give IT Pros and tech enthusiasts a place to hang out after long hours in the trenches.
+I had this crazy idea that IT Pros may, possibly, be a group of people that are inclined to enjoy video games (like me!). The InfoTech Gamer Twitch channel is a community that is designed to give IT Pros and tech enthusiasts a place to hang out after long hours in the trenches. I had initially created the channel primarily with gaming in mind, but I pumped the breaks when i realized I didn't want to add to the noise of all the other gaming channels that are already out there.
 
-[The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) channel features a combination of gaming streams, and 1-hour technical live learns (like shown below) that occur twice a week on Tues / Thurs.
+With that in mind, [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) channel is back in 2022! Now with a combination of gaming streams, and 1-hour technical live learns (like shown below) that occur twice a week on Tues / Thurs.
 
 ![InfoTech Gamer Twitch Channel](TwitchChannelGraphics.png)
 
