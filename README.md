@@ -69,11 +69,11 @@ With that in mind, [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) 
 - Thursday Live Learn - 12:30pm EST to 1:30pm EST
 - Friday Game Stream - 9:00pm EST to 11:00pm EST
 
-**NOTE**: For channel updates see [The InfoTech Gamer Twitter Account](https://www.twitter.com/infotechgamer) for the latest stream info!
+**NOTE**: The finalized stream schedule is still somewhat fluid. For channel updates see [The InfoTech Gamer Twitter Account](https://www.twitter.com/infotechgamer) for the latest stream info!
 
 ---
 
-### **Author of the Anxious Techy SubStack - Coming Soon!!**
+### **Author of the [Anxious Techy SubStack - Coming Soon!!](https://anxioustechy.substack.com)**
 
 This is my newest project, and perhaps the one I'm most excited about! In 2021, I was diagnosed with Generalized Anxiety Disorder and (surprise!), turns out I had been suffering from it my entire life.
 
@@ -81,7 +81,9 @@ While my tech learning slowed down in 2020 and 2021 as a result, I started getti
 
 Just like I do with Tech, I felt the need to try and share my story and personal learnings in the hopes of helping others that are dealing with anxiety or other mental health issues. The biggest thing is knowing that you're not alone. On top of that, the continued stigma against mental health in society SUCKS and needs to end. This is my way of shining light on that!
 
-I hope you will subscribe and join the conversation regarding mental health in our community!
+![Anxious Techy Screencap](anxioustechyscreencap.png)
+
+I hope you will [subscribe and join](https://anxioustechy.substack.com) the conversation regarding mental health in our community!
 
 ## Ask Me About Public Speaking!
 
