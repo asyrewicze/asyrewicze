@@ -79,7 +79,9 @@ This is my newest project, and perhaps the one I'm most excited about! In 2021, 
 
 While my tech learning slowed down in 2020 and 2021 as a result, I started getting help and learned how to cope with my anxiety disorder and not be avoidant. While I hated the fact that my tech learning slowed down somewhat this last year and a half, I had the BIG realization that learning to deal with any mental illness is a skill. If I wanted to manage SQL, I'd go learn about SQL. Mental Illness is no different in this regard!
 
-Just like I do with Tech, I felt the need to try and share my story and personal learnings in the hopes of helping others that are dealing with anxiety or other mental health issues. The biggest thing is knowing that you're not alone. On top of that, the continued stigma against mental health in society SUCKS and needs to end. This is my way of shining light on that!
+If you're interested in how all this played out through the lens of my career in tech, I actually had the pleasure of being on the [Nerd Journey Podcast](https://nerd-journey.com) and [we discussed anxiety specifically in this episode](https://nerd-journey.com/anxious-living-worry-and-hope-with-andy-syrewicze-3-3/).
+
+That all said, just like I do with technical topics, I felt the need to try and share my story and personal learnings in the hopes of helping others that are dealing with anxiety or other mental health issues. The biggest thing is knowing that you're not alone. On top of that, the continued stigma against mental health in society SUCKS and needs to end. This is my way of shining light on that!
 
 ![Anxious Techy Screencap](anxioustechyscreencap.png)
 
