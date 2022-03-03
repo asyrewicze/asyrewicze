@@ -64,12 +64,18 @@ With that in mind, [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) 
 
 #### Current Weekly Stream Schedule
 
-- Monday Game Stream - 5:00pm EST to 7:00pm EST
-- Tuesday Live Learn - 12:30pm EST to 1:30pm EST
-- Thursday Live Learn - 12:30pm EST to 1:30pm EST
-- Friday Game Stream - 9:00pm EST to 11:00pm EST
-
 **NOTE**: The finalized stream schedule is still somewhat fluid. For channel updates see [The InfoTech Gamer Twitter Account](https://www.twitter.com/infotechgamer) for the latest stream info!
+
+##### Live Learn Streams
+
+- Twice Weekly during US Eastern Timezone Lunch hours
+
+**NOTE**: Currently I don't have defined days for these. I TRY to make Tuesday/Thursday work, but that doesn't always happen. As such, be on the lookout for these on any given weekday.
+
+##### Gaming Streams
+
+- Monday Game Stream - 5:00pm EST to 7:00pm EST
+- Friday Game Stream - 9:00pm EST to 11:00pm EST
 
 ---
 
