@@ -62,24 +62,13 @@ With that in mind, [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) 
 
 ![InfoTech Gamer Twitch Channel](TwitchChannelGraphics.png)
 
-#### Current Weekly Stream Schedule
+#### Stream Schedule
 
-**NOTE**: The finalized stream schedule is still somewhat fluid. For channel updates see [The InfoTech Gamer Twitter Account](https://www.twitter.com/infotechgamer) for the latest stream info!
-
-##### Live Learn Streams
-
-- Twice Weekly during US Eastern Timezone Lunch hours
-
-**NOTE**: Currently I don't have defined days for these. I TRY to make Tuesday/Thursday work, but that doesn't always happen. As such, be on the lookout for these on any given weekday.
-
-##### Gaming Streams
-
-- Monday Game Stream - 5:00pm EST to 7:00pm EST
-- Friday Game Stream - 9:00pm EST to 11:00pm EST
+**NOTE**: The finalized stream schedule is still somewhat fluid, and I don't get to Twitch nearly as often as I would like. For channel updates see [The InfoTech Gamer Twitter Account](https://www.twitter.com/infotechgamer) for the latest stream info!
 
 ---
 
-### **Author of the [Anxious Techy SubStack - Coming Soon!!](https://anxioustechy.substack.com)**
+### **Author of the [Anxious Techie SubStack - Coming Soon!!](https://anxioustechie.substack.com)**
 
 This is my newest project, and perhaps the one I'm most excited about! In 2021, I was diagnosed with Generalized Anxiety Disorder and (surprise!), turns out I had been suffering from it my entire life.
 
@@ -91,7 +80,7 @@ That all said, just like I do with technical topics, I felt the need to try and 
 
 ![Anxious Techy Screencap](anxioustechyscreencap.png)
 
-I hope you will [subscribe and join](https://anxioustechy.substack.com) the conversation regarding mental health in our community!
+I hope you will [subscribe and join](https://anxioustechie.substack.com) the conversation regarding mental health in our community!
 
 ## Ask Me About Public Speaking!
 
