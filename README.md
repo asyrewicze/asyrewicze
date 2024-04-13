@@ -22,6 +22,28 @@ Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybers
 
 I'm a woefully addicted gamer. Currently playing Elden Ring, and Final Fantasy 7 Rebirth!
 
+## Ask Me About Public Speaking
+
+![Andy Speaking at Infosec EU](AndyInfosecEU.png)
+
+I enjoy speaking to crowds of all shapes and sizes both in-person and virtually. That includes small groups all the way up to keynote styled sessions with large crowds in the audience. I'm able to speak on the below topics:
+
+- Cybersecurity
+- PowerShell
+- Windows Server Stack (Including Azure Stack HCI!)
+- Hyper-V and Virtualization
+- Microsoft Azure IaaS and PaaS
+- Microsoft 365 Administration
+- IT Career Coaching
+- Anxiety and Coping Skills
+- Presentation, Content Generation, and Streaming / Video Skills
+- Technical Marketing Topics
+- Community Creation and Support
+
+NOTE: If you're conference uses Sessionize - [**Here is a link**](https://sessionize.com/andy-syrewicze/) to my Sessionize Profile!
+
+**NOTE**: If you'd like me to come speak an any of the above topics, reach out to me via the "How to Get in Touch with Me" section at the bottom of my profile!
+
 ## What am I Currently Working on?
 
 All of the below sources are platforms that I'm currently creating content for.
@@ -78,28 +100,6 @@ That all said, just like I do with technical topics, I felt the need to try and 
 ![Anxious Techie Screencap](anxioustechyscreencap.png)
 
 I hope you will [subscribe and join](https://anxioustechie.substack.com) the conversation regarding mental health in our community!
-
-## Ask Me About Public Speaking
-
-![Andy Speaking at Infosec EU](AndyInfosecEU.png)
-
-I enjoy speaking to crowds of all shapes and sizes both in-person and virtually. That includes small groups all the way up to keynote styled sessions with large crowds in the audience. I'm able to speak on the below topics:
-
-- Cybersecurity
-- PowerShell
-- Windows Server Stack (Including Azure Stack HCI!)
-- Hyper-V and Virtualization
-- Microsoft Azure IaaS and PaaS
-- Microsoft 365 Administration
-- IT Career Coaching
-- Anxiety and Coping Skills
-- Presentation, Content Generation, and Streaming / Video Skills
-- Technical Marketing Topics
-- Community Creation and Support
-
-NOTE: If you're conference uses Sessionize - [**Here is a link**](https://sessionize.com/andy-syrewicze/) to my Sessionize Profile!
-
-**NOTE**: If you'd like me to come speak an any of the above topics, reach out to me via the "How to Get in Touch with Me" section below!
 
 ## What I'm Currently Learning
 
