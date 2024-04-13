@@ -97,9 +97,7 @@ I enjoy speaking to crowds of all shapes and sizes both in-person and virtually.
 - Technical Marketing Topics
 - Community Creation and Support
 
-Here are some examples of sessions I've done in the past:
-
-<script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/0cab8e65-5a9e-43a6-8807-211909d38477/1x0x3fb393x"></script>
+NOTE: If you're conference uses Sessionize - [**Here is a link**](https://sessionize.com/andy-syrewicze/) to my Sessionize Profile!
 
 **NOTE**: If you'd like me to come speak an any of the above topics, reach out to me via the "How to Get in Touch with Me" section below!
 
