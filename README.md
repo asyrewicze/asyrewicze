@@ -18,7 +18,7 @@ He / Him
 
 ### **About Andy**
 
-Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybersecurity and Cloud Services such as Microsoft Azure. By day he works as a Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com), and by night he shares his IT knowledge online in IT communities or over a cold beer. Andy is an 10-time awardee of the [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000844?fullName=Andy%20Syrewicze) award in the Cloud and Datacenter Management competency.
+Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybersecurity and Cloud Services such as Microsoft Azure. By day he works as a Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com), and by night he shares his IT knowledge online in IT communities or over a cold beer. Andy is an 11-time awardee of the [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000844?fullName=Andy%20Syrewicze) award across several competencies - most recently being Security.
 
 ### **Fun Ice-Breaker Fact About Andy**
 
@@ -42,7 +42,7 @@ I enjoy speaking to crowds of all shapes and sizes both in-person and virtually.
 - Technical Marketing Topics
 - Community Creation and Support
 
-NOTE: If you're conference uses Sessionize - [**Here is a link**](https://sessionize.com/andy-syrewicze/) to my Sessionize Profile!
+NOTE: If you're conference uses Sessionize, I've recently started tracking my available sessions there - [**Here is the link**](https://sessionize.com/andy-syrewicze/) to my Sessionize Profile!
 
 **NOTE**: If you'd like me to come speak an any of the above topics, reach out to me via the "How to Get in Touch with Me" section at the bottom of my profile!
 
