@@ -6,7 +6,7 @@ Welcome to my profile! If you're here, you're likely wondering who I am, or some
 
 I use this space to organize and centralize links to all of the resources, community work, public speaking and other stuff I work on out on the interwebz. If you're looking to contact me, I am most active on [LinkedIn](https://www.linkedin.com/in/asyrewicze) these days!
 
-Additionally, if you're interested in my content, I've recently started a new blog at [www.andyontech.com](https://www.andyontech.com)
+**If you're interested in my content:** After many years focusing on content creation for corporations, I've recently started a new personal blog covering tech at [www.andyontech.com](https://www.andyontech.com)
 
 Looking forward to hearing from you!
 
