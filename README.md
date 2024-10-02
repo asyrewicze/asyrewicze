@@ -4,7 +4,9 @@
 
 Welcome to my profile! If you're here, you're likely wondering who I am, or some of my content, somewhere out on the web, directed you here. Hello, and welcome!
 
-I use this space to organize and centralize links to all of the resources, community work, public speaking and other stuff I work on out on the interwebz. If you're looking to get ahold of me, I am most active on [LinkedIn](https://www.linkedin.com/in/asyrewicze) these days!
+I use this space to organize and centralize links to all of the resources, community work, public speaking and other stuff I work on out on the interwebz. If you're looking to contact me, I am most active on [LinkedIn](https://www.linkedin.com/in/asyrewicze) these days!
+
+Additionally, if you're interested in my content, I've recently started a new blog at [www.andyontech.com](https://www.andyontech.com)
 
 Looking forward to hearing from you!
 
@@ -20,7 +22,7 @@ Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybers
 
 ### **Fun Ice-Breaker Fact About Andy**
 
-I'm a woefully addicted gamer. Currently playing Elden Ring, and Final Fantasy 7 Rebirth!
+I'm a woefully addicted gamer. Currently playing World of Warcraft: War Within and MegaMan 11!
 
 ## Ask Me About Public Speaking
 
