@@ -107,11 +107,11 @@ I hope you will [subscribe and join](https://anxioustechie.substack.com) the con
 
 - All Things Cybersecurity!
 - In-Depth M365 Security Hardening
-- Use of Generative AI with a Focus on Co-Pilot
+- Use of Generative AI with a Focus on Copilot
 - Security for Generative AI
-- Continuously Improving my Writing and Markdown Know-how
+- Continuously Improving my Writing and Content Creation Skills
 - Taekwondo
-- Anxiety Management and Mental Well Being
+- Anxiety Management and Consistent Self-Care
 
 ## How to Get in Touch with Me
 
