@@ -20,6 +20,12 @@ He / Him
 
 Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybersecurity and Cloud Services such as Microsoft Azure. By day he works as a Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com), and by night he shares his IT knowledge online in IT communities or over a cold beer. Andy is an 11-time awardee of the [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000844?fullName=Andy%20Syrewicze) award across several competencies - most recently being Security.
 
+### Skillset
+
+[![My Skills](https://skillicons.dev/icons?i=apple,arch,azure,bash,bitbucket,debian,discord,docker,fediverse,git,githubactions,gitlab,gmail,ai,kali,linkedin,linux,md,mastodon,mint,powershell,raspberrypi,ubuntu,vim,vscode,windows,wordpress&theme=light)](https://skillicons.dev)
+
+**Note**: Showing those skills as supported by the [skill-icons project](https://github.com/tandpfun/skill-icons). For a full list of skills, please see [LinkedIn](https://www.linkedin.com/in/asyrewicze).
+
 ### **Fun Ice-Breaker Fact About Andy**
 
 I'm a woefully addicted gamer. Currently playing World of Warcraft: War Within and MegaMan 11!
