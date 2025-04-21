@@ -6,8 +6,6 @@ Welcome to my profile! If you're here, you're likely wondering who I am, or some
 
 I use this space to organize and centralize links to all of the resources, community work, public speaking and other stuff I work on out on the interwebz. If you're looking to contact me, I am most active on [LinkedIn](https://www.linkedin.com/in/asyrewicze) these days!
 
-**If you're interested in my content:** After many years focusing on content creation for corporations, I've recently started a new personal blog covering tech at [www.andyontech.com](https://www.andyontech.com)
-
 Looking forward to hearing from you!
 
 ## Who is This Andy Guy?
@@ -18,7 +16,7 @@ He / Him
 
 ### **About Andy**
 
-Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybersecurity and Cloud Services such as Microsoft Azure. By day he works as a Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com), and by night he shares his IT knowledge online in IT communities or over a cold beer. Andy is an 11-time awardee of the [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000844?fullName=Andy%20Syrewicze) award across several competencies - most recently being Security.
+Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybersecurity, Linux and Open Source, as well as Cloud Services such as Microsoft Azure. By day he works as a Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com), and by night he shares his IT knowledge online in IT communities or over a cold beer. Andy is an 11-time awardee of the [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000844?fullName=Andy%20Syrewicze) award across several competencies - most recently being Security.
 
 ### Skillset
 
@@ -28,7 +26,7 @@ Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybers
 
 ### **Fun Ice-Breaker Fact About Andy**
 
-I'm a woefully addicted gamer. Currently playing World of Warcraft: War Within and MegaMan 11!
+I'm a woefully addicted gamer. Currently playing World of Warcraft: War Within and Diablo 4!
 
 ## Ask Me About Public Speaking
 
@@ -37,6 +35,7 @@ I'm a woefully addicted gamer. Currently playing World of Warcraft: War Within a
 I enjoy speaking to crowds of all shapes and sizes both in-person and virtually. That includes small groups all the way up to keynote styled sessions with large crowds in the audience. I'm able to speak on the below topics:
 
 - Cybersecurity
+- Linux and Open Source
 - PowerShell
 - Windows Server Stack (Including Azure Stack HCI!)
 - Hyper-V and Virtualization
@@ -56,6 +55,24 @@ NOTE: If you're conference uses Sessionize, I've recently started tracking my av
 
 All of the below sources are platforms that I'm currently creating content for.
 
+### **Owner and Content Creator at [www.andyontech.com](www.andyontech.com)\
+
+![www.andyontech.com banner](AOS_Banner.jpeg)
+
+For the past several years I've mainly spent my time blogging for various business entities. Recently, however, I started up a new personal blog where I blog about a number of different technical topics including but not limited to:
+
+- AI solutions like Copilot, ChatGPT, and Others
+- Linux and FOSS Solutions
+- Microsoft Azure and other cloud platforms
+- Microsoft 365
+- Windows Server infrastructure
+- Microsoft Hyper-V and virtualization topics
+- PowerShell and automation
+- Cybersecurity - spanning all Topics listed above
+- Anxiety and mental health
+
+---
+
 ### **Content Creator and Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com)**
 
 In my day job as a Security Evangelist (One part technical, one part marketing, one part pre-sales) I spend my time listening to the community, doing presentations, having technical conversations and creating content that will help system admins and security professionals be more efficient with their day-to-day tasks while also helping them keep their eye on the future of the industry.
@@ -66,18 +83,16 @@ Much of the Hornetsecurity content I contribute too can be found on the Hornetse
 
 ---
 
-### **Host of the [Security Swarm Podcast](https://www.youtube.com/playlist?list=PLZDR2zpfWAzvGsR0qDMXiAiRoHcMogWhw)**
+### **Host and Creator of [SysAdmin Weekly](https://www.youtube.com/playlist?list=PLYqZ6xOvh8y-PlYRoY7-RXH55t7GZFZ3q)
 
-The Security Swarm Podcast is a podcast that focuses on topics in the cybersecurity space. While we look at a broad range of security topics, most episodes look at security through the lens of Microsoft 365. The show is available on the below platforms and hosts a wide array of different guests from a variety of backgrounds.
+SysAdmin Weekly is your go-to source for IT-related content - tailored to busy system administrators in the trenches. I host and produce SysAdmin Weekly alongside fellow [Microsoft MVP](https://mvp.microsoft.com) Eric Siron. SysAdmin Weekly dives deep into the challenges and solutions that matter most to sysadmins on any given day. From technical know-how to real-world insights, SysAdmin Weekly is dedicated to those tireless professionals who keep our digital world running. Tune in for relevant topics, expert advice, and engaging discussions to make your busy schedule a little bit easier.
 
-The show is posted weekly and is available on:
+- [YouTube](https://www.youtube.com/playlist?list=PLYqZ6xOvh8y-PlYRoY7-RXH55t7GZFZ3q)
+- [Spotify](https://open.spotify.com/show/3UzdVVq17ZBCQSPr6Sx7cR)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/sysadmin-weekly/id1809209683)
+- [Amazon Podcasts](https://music.amazon.com/podcasts/d412b1d3-a641-44fb-ab58-b55b82139b96/sysadmin-weekly)
 
-- [YouTube](https://www.youtube.com/playlist?list=PLZDR2zpfWAzvGsR0qDMXiAiRoHcMogWhw)
-- [Spotify](https://open.spotify.com/show/4C2NbAbOlhgx0Fo3bkg712)
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-security-swarm-a-hornetsecurity-podcast/id1605128233)
-- [Amazon Podcasts](https://www.amazon.com/The-SysAdmin-DOJO-Podcast/dp/B09QK5GNWH)
-
-![The Security Swarm](SecuritySwarmLogo.png)
+![SysAdmin Weekly](SysAdminWeeklyYouTubeBanner.png)
 
 ---
 
@@ -87,7 +102,7 @@ The show is posted weekly and is available on:
 
 While still a work in progress (with all that spare time I have!) - I had this crazy idea that IT Pros may, possibly, be a group of people that are inclined to enjoy video games (like me!). The InfoTech Gamer Twitch channel is a community that is designed to give IT Pros and tech enthusiasts a place to hang out after long hours in the trenches. I had initially created the channel primarily with gaming in mind, but I pumped the breaks when i realized I didn't want to add to the noise of all the other gaming channels that are already out there.
 
-With that in mind, I stream occasionally at [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer)! Now with a combination of gaming streams, and 1-hour technical live learns (like shown below). I'd like to increase the cadence of streams in the future, once my schedule allows!
+With that in mind, I stream VERY occasionally at [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer)! Now with a combination of gaming streams, and 1-hour technical live learns (like shown below). I'd like to increase the cadence of streams in the future, once my schedule allows!
 
 ![InfoTech Gamer Twitch Channel](TwitchChannelGraphics.png)
 
@@ -95,7 +110,7 @@ With that in mind, I stream occasionally at [The InfoTech Gamer](https://www.twi
 
 ### **Author of the [Anxious Techie SubStack - Coming Soon!!](https://anxioustechy.substack.com)**
 
-This is one of my newest ideas and is currently on the back-burner due to other initiatives! That said, I still feel it's important, and I'm hoping to get back to the concept sometime throughout 2024.
+This is one of my newest ideas and is currently on the back-burner due to other initiatives! That said, I still feel it's important, and I'm hoping to get back to the concept sometime throughout 2025.
 
 In 2021, I was diagnosed with Generalized Anxiety Disorder and (surprise!), turns out I had been suffering from it my entire life.
 
@@ -119,12 +134,13 @@ I hope you will [subscribe and join](https://anxioustechie.substack.com) the con
 - Taekwondo
 - Anxiety Management and Consistent Self-Care
 
-## How to Get in Touch with Me
+## How to Reach Me
 
 I'm generally available at most waking hours on both of the below platforms. For more detailed conversations, I'll happily provide different contact preferences if needed.
 
-- [Mastadon](https://infosec.exchange/@andysandwich)
 - [LinkedIn](https://www.linkedin.com/in/asyrewicze)
+- [BlueSky](https://bsky.app/profile/andysandwich.bsky.social)
+- [Mastadon](https://infosec.exchange/@andysandwich)
 
 <!--
 **asyrewicze/asyrewicze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
