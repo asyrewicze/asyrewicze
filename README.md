@@ -10,11 +10,11 @@ Looking forward to hearing from you!
 
 ## Who is This Andy Guy?
 
-### **Pronouns**
+### Pronouns
 
 He / Him
 
-### **About Andy**
+### About Andy
 
 Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybersecurity, Linux and Open Source, as well as Cloud Services such as Microsoft Azure. By day he works as a Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com), and by night he shares his IT knowledge online in IT communities or over a cold beer. Andy is an 11-time awardee of the [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000844?fullName=Andy%20Syrewicze) award across several competencies - most recently being Security.
 
@@ -24,7 +24,7 @@ Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybers
 
 **Note**: Showing those skills as supported by the [skill-icons project](https://github.com/tandpfun/skill-icons). For a full list of skills, please see [LinkedIn](https://www.linkedin.com/in/asyrewicze).
 
-### **Fun Ice-Breaker Fact About Andy**
+### Fun Ice-Breaker Fact About Andy
 
 I'm a woefully addicted gamer. Currently playing World of Warcraft: War Within and Diablo 4!
 
@@ -55,7 +55,7 @@ NOTE: If you're conference uses Sessionize, I've recently started tracking my av
 
 All of the below sources are platforms that I'm currently creating content for.
 
-### **Owner and Content Creator at [www.andyontech.com](www.andyontech.com)\
+### Owner and Content Creator at [www.andyontech.com](www.andyontech.com)
 
 ![www.andyontech.com banner](AOS_Banner.jpeg)
 
@@ -73,7 +73,7 @@ For the past several years I've mainly spent my time blogging for various busine
 
 ---
 
-### **Content Creator and Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com)**
+### Content Creator and Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com)
 
 In my day job as a Security Evangelist (One part technical, one part marketing, one part pre-sales) I spend my time listening to the community, doing presentations, having technical conversations and creating content that will help system admins and security professionals be more efficient with their day-to-day tasks while also helping them keep their eye on the future of the industry.
 
@@ -83,7 +83,7 @@ Much of the Hornetsecurity content I contribute too can be found on the Hornetse
 
 ---
 
-### **Host and Creator of [SysAdmin Weekly](https://www.youtube.com/playlist?list=PLYqZ6xOvh8y-PlYRoY7-RXH55t7GZFZ3q)
+### Host and Creator of [SysAdmin Weekly](https://www.youtube.com/playlist?list=PLYqZ6xOvh8y-PlYRoY7-RXH55t7GZFZ3q)
 
 SysAdmin Weekly is your go-to source for IT-related content - tailored to busy system administrators in the trenches. I host and produce SysAdmin Weekly alongside fellow [Microsoft MVP](https://mvp.microsoft.com) Eric Siron. SysAdmin Weekly dives deep into the challenges and solutions that matter most to sysadmins on any given day. From technical know-how to real-world insights, SysAdmin Weekly is dedicated to those tireless professionals who keep our digital world running. Tune in for relevant topics, expert advice, and engaging discussions to make your busy schedule a little bit easier.
 
@@ -96,7 +96,7 @@ SysAdmin Weekly is your go-to source for IT-related content - tailored to busy s
 
 ---
 
-### **Andy is [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) on Twitch!**
+### Andy is [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) on Twitch!
 
 ![InfoTechGamer Logo](TwitchChannelLogo.png)
 
@@ -108,7 +108,7 @@ With that in mind, I stream VERY occasionally at [The InfoTech Gamer](https://ww
 
 ---
 
-### **Author of the [Anxious Techie SubStack - Coming Soon!!](https://anxioustechy.substack.com)**
+### Author of the [Anxious Techie SubStack - Coming Soon!!](https://anxioustechy.substack.com)
 
 This is one of my newest ideas and is currently on the back-burner due to other initiatives! That said, I still feel it's important, and I'm hoping to get back to the concept sometime throughout 2025.
 
