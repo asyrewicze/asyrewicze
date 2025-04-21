@@ -55,7 +55,7 @@ NOTE: If you're conference uses Sessionize, I've recently started tracking my av
 
 All of the below sources are platforms that I'm currently creating content for.
 
-### Owner and Content Creator at [www.andyontech.com](www.andyontech.com)
+### Owner and Content Creator at [www.andyontech.com](https://www.andyontech.com)
 
 ![www.andyontech.com banner](AOS_Banner.jpeg)
 
