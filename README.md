@@ -55,7 +55,21 @@ NOTE: If you're conference uses Sessionize, I've recently started tracking my av
 
 All of the below sources are platforms that I'm currently creating content for.
 
-### Owner and Content Creator at [www.andyontech.com](https://www.andyontech.com)
+### Host and Creator of [SysAdmin Weekly](https://www.sysadminweekly.com)
+
+SysAdmin Weekly is your go-to source for IT-related content - tailored to busy system administrators in the trenches. I host and produce SysAdmin Weekly alongside fellow [Microsoft MVP](https://mvp.microsoft.com) Eric Siron. SysAdmin Weekly dives deep into the challenges and solutions that matter most to sysadmins on any given day. From technical know-how to real-world insights, SysAdmin Weekly is dedicated to those tireless professionals who keep our digital world running. Tune in for relevant topics, expert advice, and engaging discussions to make your busy schedule a little bit easier.
+
+- [Newsletter](https://newsletter.sysadminweekly.com)
+- [YouTube](https://www.youtube.com/playlist?list=PLYqZ6xOvh8y-PlYRoY7-RXH55t7GZFZ3q)
+- [Spotify](https://open.spotify.com/show/3UzdVVq17ZBCQSPr6Sx7cR)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/sysadmin-weekly/id1809209683)
+- [Amazon Podcasts](https://music.amazon.com/podcasts/d412b1d3-a641-44fb-ab58-b55b82139b96/sysadmin-weekly)
+
+![SysAdmin Weekly](SysAdminWeeklyYouTubeBanner.png)
+
+---
+
+### Owner and Content Creator at [AndyOnTech](https://www.andyontech.com)
 
 ![www.andyontech.com banner](AOS_Banner.jpeg)
 
@@ -80,19 +94,6 @@ In my day job as a Security Evangelist (One part technical, one part marketing, 
 Much of the Hornetsecurity content I contribute too can be found on the Hornetsecurity Youtube channel.
 
 ![Andy AI and Security Webinar](AndyWebinarImage.png)
-
----
-
-### Host and Creator of [SysAdmin Weekly](https://www.youtube.com/playlist?list=PLYqZ6xOvh8y-PlYRoY7-RXH55t7GZFZ3q)
-
-SysAdmin Weekly is your go-to source for IT-related content - tailored to busy system administrators in the trenches. I host and produce SysAdmin Weekly alongside fellow [Microsoft MVP](https://mvp.microsoft.com) Eric Siron. SysAdmin Weekly dives deep into the challenges and solutions that matter most to sysadmins on any given day. From technical know-how to real-world insights, SysAdmin Weekly is dedicated to those tireless professionals who keep our digital world running. Tune in for relevant topics, expert advice, and engaging discussions to make your busy schedule a little bit easier.
-
-- [YouTube](https://www.youtube.com/playlist?list=PLYqZ6xOvh8y-PlYRoY7-RXH55t7GZFZ3q)
-- [Spotify](https://open.spotify.com/show/3UzdVVq17ZBCQSPr6Sx7cR)
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/sysadmin-weekly/id1809209683)
-- [Amazon Podcasts](https://music.amazon.com/podcasts/d412b1d3-a641-44fb-ab58-b55b82139b96/sysadmin-weekly)
-
-![SysAdmin Weekly](SysAdminWeeklyYouTubeBanner.png)
 
 ---
 
