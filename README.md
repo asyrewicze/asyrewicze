@@ -20,7 +20,7 @@ Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybers
 
 ### Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=apple,arch,azure,bash,bitbucket,debian,discord,docker,fediverse,git,githubactions,gitlab,gmail,ai,kali,linkedin,linux,md,mastodon,mint,powershell,raspberrypi,ubuntu,vim,vscode,windows,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arch,azure,bash,bitbucket,debian,discord,docker,fediverse,git,githubactions,gitlab,gmail,ai,kali,linkedin,linux,md,mastodon,mint,powershell,python,raspberrypi,ubuntu,vim,vscode,windows,wordpress&theme=light)](https://skillicons.dev)
 
 **Note**: Showing those skills as supported by the [skill-icons project](https://github.com/tandpfun/skill-icons). For a full list of skills, please see [LinkedIn](https://www.linkedin.com/in/asyrewicze).
 
