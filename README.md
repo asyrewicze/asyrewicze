@@ -26,7 +26,7 @@ Andy is a 20+ year IT Pro specializing in Infrastructure, the M365 Suite, Cybers
 
 ### Fun Ice-Breaker Fact About Andy
 
-I'm a woefully addicted gamer. Currently playing World of Warcraft: War Within and Diablo 4!
+I'm a crazy goldendoodle dad and a woefully addicted gamer. Currently playing World of Warcraft: War Within
 
 ## Ask Me About Public Speaking
 
@@ -87,7 +87,7 @@ For the past several years I've mainly spent my time blogging for various busine
 
 ---
 
-### Content Creator and Security Evangelist for [Hornetsecurity](https://www.hornetsecurity.com)
+### Content Creator and Security Evangelist for [Hornetsecurity by Proofpoint](https://www.hornetsecurity.com)
 
 In my day job as a Security Evangelist (One part technical, one part marketing, one part pre-sales) I spend my time listening to the community, doing presentations, having technical conversations and creating content that will help system admins and security professionals be more efficient with their day-to-day tasks while also helping them keep their eye on the future of the industry.
 
@@ -96,34 +96,6 @@ Much of the Hornetsecurity content I contribute too can be found on the Hornetse
 ![Andy AI and Security Webinar](AndyWebinarImage.png)
 
 ---
-
-### Andy is [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer) on Twitch!
-
-![InfoTechGamer Logo](TwitchChannelLogo.png)
-
-While still a work in progress (with all that spare time I have!) - I had this crazy idea that IT Pros may, possibly, be a group of people that are inclined to enjoy video games (like me!). The InfoTech Gamer Twitch channel is a community that is designed to give IT Pros and tech enthusiasts a place to hang out after long hours in the trenches. I had initially created the channel primarily with gaming in mind, but I pumped the breaks when i realized I didn't want to add to the noise of all the other gaming channels that are already out there.
-
-With that in mind, I stream VERY occasionally at [The InfoTech Gamer](https://www.twitch.tv/theinfotechgamer)! Now with a combination of gaming streams, and 1-hour technical live learns (like shown below). I'd like to increase the cadence of streams in the future, once my schedule allows!
-
-![InfoTech Gamer Twitch Channel](TwitchChannelGraphics.png)
-
----
-
-### Author of the [Anxious Techie SubStack - Coming Soon!!](https://anxioustechy.substack.com)
-
-This is one of my newest ideas and is currently on the back-burner due to other initiatives! That said, I still feel it's important, and I'm hoping to get back to the concept sometime throughout 2025.
-
-In 2021, I was diagnosed with Generalized Anxiety Disorder and (surprise!), turns out I had been suffering from it my entire life.
-
-While my tech learning slowed down in 2020 and 2021 as a result, I started getting help and learned how to cope with my anxiety disorder and not be avoidant. While I hated the fact that my tech learning slowed down somewhat this last year and a half, I had the BIG realization that learning to deal with any mental illness is a skill. If I wanted to manage SQL, I'd go learn about SQL. Mental Illness is no different in this regard!
-
-If you're interested in how all this played out through the lens of my career in tech, I actually had the pleasure of being on the [Nerd Journey Podcast](https://nerd-journey.com) and [we discussed anxiety specifically in this episode](https://nerd-journey.com/anxious-living-worry-and-hope-with-andy-syrewicze-3-3/).
-
-That all said, just like I do with technical topics, I felt the need to try and share my story and personal learnings in the hopes of helping others that are dealing with anxiety or other mental health issues. The biggest thing is knowing that you're not alone. On top of that, the continued stigma against mental health in society SUCKS and needs to end. This is my way of shining light on that!
-
-![Anxious Techie Screencap](anxioustechyscreencap.png)
-
-I hope you will [subscribe and join](https://anxioustechie.substack.com) the conversation regarding mental health in our community!
 
 ## What I'm Currently Learning
 
